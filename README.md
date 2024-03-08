@@ -6,6 +6,9 @@ Getting Started
 
 #Running the Calculator 
 -Clone or download the repository to your local machine. 
--Open a terminal or command prompt. -Navigate to the directory where the files are located. 
--Run the calculator.py file using Python: python calculator.py 
+
+-Open a terminal or command prompt. -Navigate to the directory where the files are located.
+
+-Run the calculator.py file using Python: python calculator.py
+
 -Follow the on-screen instructions to select the desired operation and enter the numbers.
